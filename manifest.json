@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Tic Tac Toe",
+"version": "1.0",
+  "description": "A simple mobile-responsive Tic Tac Toe game as a browser extension.",
+  
+  "action": {
+    "default_popup": "index.html"
+     },
+    "permissions": []
+   }
